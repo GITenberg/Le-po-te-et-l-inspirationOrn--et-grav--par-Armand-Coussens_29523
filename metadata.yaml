@@ -21,6 +21,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Francis_Jammes
     - http://en.wikipedia.org/wiki/Francis_Jammes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29523#Le-po-te-et-l-inspirationOrn--et-grav--par-Armand-Coussens
 gutenberg_bookshelf:
 - FR Littérature
 - FR Poésie
